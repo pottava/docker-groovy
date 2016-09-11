@@ -1,5 +1,6 @@
 # Groovy v2.4
 # docker run --rm pottava/groovy:2.4 groovy -e "println GroovySystem.version"
+# docker run --rm -it pottava/groovy:2.4 groovysh
 
 FROM pottava/java:8-jdk
 
